@@ -1,2 +1,2 @@
 # RND Watermarker
-python app for watermarking images with reselution and HD scale percentage.
+python app for watermarking images with resolution and HD scale percentage.
